@@ -1,2 +1,1 @@
-# D-nya_spamv
-Sjka
+freefire_spam_ff
